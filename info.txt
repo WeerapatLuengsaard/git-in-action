@@ -1,2 +1,3 @@
 Name: Jui
 Sex : Thanos
+Address : Bangkok
